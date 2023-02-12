@@ -1,9 +1,13 @@
 # Galaxy Type Classification
+<div align="center">
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlieNiT/Galaxy-Type-Classification/)
 
+</div>
+
+
 ## Description
-In this project, we trained 3 models on a dataset containing pictures of 4 types of galaxies, and compared the models.
+In this project, I trained 3 models on a dataset containing pictures of 4 types of galaxies, and compared the models.
 I should also mention that this project is based on and inspired by an assignment in [this course](https://github.com/asharifiz/Introduction_to_Machine_Learning).
 
 ## Dataset
