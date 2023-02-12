@@ -19,7 +19,7 @@ The datasset we're using in this project is [EFIGI](https://www.astromatic.net/p
 * Spirals: 3315 images
 * Irregulars: 317 images
 
-As you can see, about 74% of the images are from one class and this bias in the dataset can cause unwanted behaviours in our models.
+About 74% of the images are from one class and this bias in the dataset can cause unwanted behaviours in our models.
 
 ## Models
 1. A MLP model with 3 hidden layers and CrossEntropyLoss: This approach can reach a pretty high accuracy(74%) in only one epoch. However, the model basically returns 2(Spiral) for any input image. This behaviour of the first model comes from the bias in our training set.
